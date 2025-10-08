@@ -4,7 +4,9 @@
 I'm a French research engineer currently working on Privacy-Preserving Data Synthesis.
 
 # 💫 Dev Interests
-- Privacy-Preserving Data Synthesis (PPDS)
+- Machine Learning and Deep Learning
+  - Privacy-Preserving Data Synthesis (PPDS)
+  - Federated Learning
 
 - Natural Language Processing (NLP)
   - Open-source Large & Small Language Models (LLMs / SLMs), Speech-to-Text (STT) & Text-to-Speech (TTS)
